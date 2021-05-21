@@ -1,7 +1,7 @@
 # OpenCVCricketerFaceRecognizer
 
 ### Face recognition is a method of identifying or verifying the identity of an individual using their face.
-The Model is build using OpenCV, Sci-kitlearn,PyWavelet. The dataset used in this model contain around 600 images of 15 top Indian cricket players (who have participated in the 2019 ICC Men's Cricket World Cup). There are 30 - 50 images per player.
+The Model is build using OpenCV, Sci-kitlearn,PyWavelet. The dataset used in this model contain around 800 images of 15 top Indian cricket players (who have participated in the 2019 ICC Men's Cricket World Cup). There are 50-60 images per player.
 
 #### Unknown ~  
 *The human face is a dynamic object and has a high degree of variability in its appearance,which makes face detection a difficult problem in computer vision.*
@@ -10,6 +10,8 @@ The Model is build using OpenCV, Sci-kitlearn,PyWavelet. The dataset used in thi
 OpenCV is an open-source library used by most of the Developers because of its simplicity. I have used OpenCV in here to read image and Capturing image 
 
 For Model processing I used Linear Regression, SVM, Random Forest, XGBRegerssor, ExtraTreesRegressor, GridSearchCV and then select the best from them.
+
+The Training Dataset used contain 600 images and test dataset contain 200 images of these cricketer.
 
 I converted The Image in Wavelet tranform and the combined original with it. The wavelet transform is a way of expressing a signal as a collection of smaller
 wavelets. 
