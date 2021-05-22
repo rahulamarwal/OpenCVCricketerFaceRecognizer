@@ -44,7 +44,7 @@ Like here is a ScreenShot of XGBRegeressor Confusion Matrix. We can clearly see 
 ***Contact***
 
 ```
-Name: - Rahul Amarwal <br/>
+Name: - Rahul Amarwal 
 Email:- rahulamarwal418@gmail.com
 Phone :- 8505065521
 ```
